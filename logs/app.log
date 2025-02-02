@@ -1,0 +1,1133 @@
+2025-02-01 14:34:57,944 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 14:34:57,945 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:34:59,422 - INFO - Processing historical_event (positive tone)
+2025-02-01 14:34:59,422 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:00,545 - INFO - Processing scientific_theory (positive tone)
+2025-02-01 14:35:00,545 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:01,680 - INFO - Processing literary_critique (positive tone)
+2025-02-01 14:35:01,680 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:02,822 - INFO - Processing math_concept (positive tone)
+2025-02-01 14:35:02,822 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:03,948 - INFO - Processing art_movement (positive tone)
+2025-02-01 14:35:03,948 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:05,073 - INFO - Processing economic_principle (positive tone)
+2025-02-01 14:35:05,073 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:06,192 - INFO - Processing tech_innovation (positive tone)
+2025-02-01 14:35:06,192 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:07,315 - INFO - Processing psychology_theory (positive tone)
+2025-02-01 14:35:07,315 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:08,435 - INFO - Processing environmental_issue (positive tone)
+2025-02-01 14:35:08,435 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:09,548 - INFO - Processing political_ideology (positive tone)
+2025-02-01 14:35:09,548 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:10,669 - INFO - Processing cultural_practice (positive tone)
+2025-02-01 14:35:10,669 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:11,782 - INFO - Processing medical_condition (positive tone)
+2025-02-01 14:35:11,782 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:13,050 - INFO - Processing music_genre (positive tone)
+2025-02-01 14:35:13,050 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:14,167 - INFO - Processing architecture_style (positive tone)
+2025-02-01 14:35:14,167 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:15,294 - INFO - Processing legal_concept (positive tone)
+2025-02-01 14:35:15,294 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:16,432 - INFO - Processing astronomy_phenomenon (positive tone)
+2025-02-01 14:35:16,432 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:17,549 - INFO - Processing sociology_theory (positive tone)
+2025-02-01 14:35:17,549 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:18,666 - INFO - Processing linguistic_feature (positive tone)
+2025-02-01 14:35:18,666 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:19,793 - INFO - Processing ethical_dilemma (positive tone)
+2025-02-01 14:35:19,793 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:20,925 - INFO - Processing philosophy_analysis (neutral tone)
+2025-02-01 14:35:20,925 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:22,264 - INFO - Processing historical_event (neutral tone)
+2025-02-01 14:35:22,264 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:23,391 - INFO - Processing scientific_theory (neutral tone)
+2025-02-01 14:35:23,391 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:24,508 - INFO - Processing literary_critique (neutral tone)
+2025-02-01 14:35:24,508 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:25,637 - INFO - Processing math_concept (neutral tone)
+2025-02-01 14:35:25,637 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:26,756 - INFO - Processing art_movement (neutral tone)
+2025-02-01 14:35:26,756 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:27,870 - INFO - Processing economic_principle (neutral tone)
+2025-02-01 14:35:27,870 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:29,010 - INFO - Processing tech_innovation (neutral tone)
+2025-02-01 14:35:29,010 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:30,129 - INFO - Processing psychology_theory (neutral tone)
+2025-02-01 14:35:30,129 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:31,260 - INFO - Processing environmental_issue (neutral tone)
+2025-02-01 14:35:31,260 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:32,382 - INFO - Processing political_ideology (neutral tone)
+2025-02-01 14:35:32,382 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:35:33,519 - INFO - Processing cultural_practice (neutral tone)
+2025-02-01 14:35:33,519 - ERROR - ChatGPT API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-02-01 14:36:59,197 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 14:37:00,337 - INFO - Processing historical_event (positive tone)
+2025-02-01 14:37:01,462 - INFO - Processing scientific_theory (positive tone)
+2025-02-01 14:37:02,580 - INFO - Processing literary_critique (positive tone)
+2025-02-01 14:37:03,705 - INFO - Processing math_concept (positive tone)
+2025-02-01 14:37:04,823 - INFO - Processing art_movement (positive tone)
+2025-02-01 14:37:05,950 - INFO - Processing economic_principle (positive tone)
+2025-02-01 14:37:07,278 - INFO - Processing tech_innovation (positive tone)
+2025-02-01 14:37:08,397 - INFO - Processing psychology_theory (positive tone)
+2025-02-01 14:37:09,521 - INFO - Processing environmental_issue (positive tone)
+2025-02-01 14:37:10,637 - INFO - Processing political_ideology (positive tone)
+2025-02-01 14:37:11,753 - INFO - Processing cultural_practice (positive tone)
+2025-02-01 14:37:12,874 - INFO - Processing medical_condition (positive tone)
+2025-02-01 14:37:14,004 - INFO - Processing music_genre (positive tone)
+2025-02-01 14:37:15,129 - INFO - Processing architecture_style (positive tone)
+2025-02-01 14:37:16,265 - INFO - Processing legal_concept (positive tone)
+2025-02-01 14:37:17,416 - INFO - Processing astronomy_phenomenon (positive tone)
+2025-02-01 14:37:18,530 - INFO - Processing sociology_theory (positive tone)
+2025-02-01 14:37:19,649 - INFO - Processing linguistic_feature (positive tone)
+2025-02-01 14:37:20,777 - INFO - Processing ethical_dilemma (positive tone)
+2025-02-01 14:37:21,910 - INFO - Processing philosophy_analysis (neutral tone)
+2025-02-01 14:37:23,029 - INFO - Processing historical_event (neutral tone)
+2025-02-01 14:37:24,154 - INFO - Processing scientific_theory (neutral tone)
+2025-02-01 14:37:25,282 - INFO - Processing literary_critique (neutral tone)
+2025-02-01 14:37:26,412 - INFO - Processing math_concept (neutral tone)
+2025-02-01 14:37:27,533 - INFO - Processing art_movement (neutral tone)
+2025-02-01 14:37:28,653 - INFO - Processing economic_principle (neutral tone)
+2025-02-01 14:37:29,773 - INFO - Processing tech_innovation (neutral tone)
+2025-02-01 14:37:30,899 - INFO - Processing psychology_theory (neutral tone)
+2025-02-01 14:37:32,022 - INFO - Processing environmental_issue (neutral tone)
+2025-02-01 14:37:33,153 - INFO - Processing political_ideology (neutral tone)
+2025-02-01 14:37:34,276 - INFO - Processing cultural_practice (neutral tone)
+2025-02-01 14:37:35,403 - INFO - Processing medical_condition (neutral tone)
+2025-02-01 14:37:36,515 - INFO - Processing music_genre (neutral tone)
+2025-02-01 14:37:37,651 - INFO - Processing architecture_style (neutral tone)
+2025-02-01 14:37:38,797 - INFO - Processing legal_concept (neutral tone)
+2025-02-01 14:37:39,918 - INFO - Processing astronomy_phenomenon (neutral tone)
+2025-02-01 14:37:41,045 - INFO - Processing sociology_theory (neutral tone)
+2025-02-01 14:37:42,164 - INFO - Processing linguistic_feature (neutral tone)
+2025-02-01 14:37:43,292 - INFO - Processing ethical_dilemma (neutral tone)
+2025-02-01 14:37:44,420 - INFO - Processing philosophy_analysis (negative tone)
+2025-02-01 14:37:45,538 - INFO - Processing historical_event (negative tone)
+2025-02-01 14:37:46,661 - INFO - Processing scientific_theory (negative tone)
+2025-02-01 14:37:47,795 - INFO - Processing literary_critique (negative tone)
+2025-02-01 14:37:48,918 - INFO - Processing math_concept (negative tone)
+2025-02-01 14:37:50,043 - INFO - Processing art_movement (negative tone)
+2025-02-01 14:37:51,191 - INFO - Processing economic_principle (negative tone)
+2025-02-01 14:37:52,555 - INFO - Processing tech_innovation (negative tone)
+2025-02-01 14:37:53,671 - INFO - Processing psychology_theory (negative tone)
+2025-02-01 14:37:54,789 - INFO - Processing environmental_issue (negative tone)
+2025-02-01 14:37:55,912 - INFO - Processing political_ideology (negative tone)
+2025-02-01 14:37:57,040 - INFO - Processing cultural_practice (negative tone)
+2025-02-01 14:37:58,166 - INFO - Processing medical_condition (negative tone)
+2025-02-01 14:37:59,288 - INFO - Processing music_genre (negative tone)
+2025-02-01 14:38:00,422 - INFO - Processing architecture_style (negative tone)
+2025-02-01 14:38:01,544 - INFO - Processing legal_concept (negative tone)
+2025-02-01 14:38:02,666 - INFO - Processing astronomy_phenomenon (negative tone)
+2025-02-01 14:38:03,800 - INFO - Processing sociology_theory (negative tone)
+2025-02-01 14:38:04,918 - INFO - Processing linguistic_feature (negative tone)
+2025-02-01 14:38:06,055 - INFO - Processing ethical_dilemma (negative tone)
+2025-02-01 14:56:25,531 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 14:56:26,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:26,467 - INFO - Retrying request to /chat/completions in 0.479472 seconds
+2025-02-01 14:56:27,000 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:27,000 - INFO - Retrying request to /chat/completions in 0.819180 seconds
+2025-02-01 14:56:27,869 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:28,998 - INFO - Processing historical_event (positive tone)
+2025-02-01 14:56:29,361 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:29,361 - INFO - Retrying request to /chat/completions in 0.423004 seconds
+2025-02-01 14:56:29,838 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:29,839 - INFO - Retrying request to /chat/completions in 0.946487 seconds
+2025-02-01 14:56:30,836 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:31,972 - INFO - Processing scientific_theory (positive tone)
+2025-02-01 14:56:32,357 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:32,357 - INFO - Retrying request to /chat/completions in 0.433684 seconds
+2025-02-01 14:56:32,844 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:32,844 - INFO - Retrying request to /chat/completions in 0.780757 seconds
+2025-02-01 14:56:33,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:34,794 - INFO - Processing literary_critique (positive tone)
+2025-02-01 14:56:35,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:35,172 - INFO - Retrying request to /chat/completions in 0.450850 seconds
+2025-02-01 14:56:35,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:35,681 - INFO - Retrying request to /chat/completions in 0.849849 seconds
+2025-02-01 14:56:36,585 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:37,699 - INFO - Processing math_concept (positive tone)
+2025-02-01 14:56:38,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:38,084 - INFO - Retrying request to /chat/completions in 0.407680 seconds
+2025-02-01 14:56:38,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:38,545 - INFO - Retrying request to /chat/completions in 0.903796 seconds
+2025-02-01 14:56:39,505 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:40,630 - INFO - Processing art_movement (positive tone)
+2025-02-01 14:56:40,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:40,994 - INFO - Retrying request to /chat/completions in 0.499022 seconds
+2025-02-01 14:56:41,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:41,545 - INFO - Retrying request to /chat/completions in 0.800312 seconds
+2025-02-01 14:56:42,408 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:43,531 - INFO - Processing economic_principle (positive tone)
+2025-02-01 14:56:43,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:43,896 - INFO - Retrying request to /chat/completions in 0.395423 seconds
+2025-02-01 14:56:44,351 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:44,352 - INFO - Retrying request to /chat/completions in 0.816018 seconds
+2025-02-01 14:56:45,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:46,343 - INFO - Processing tech_innovation (positive tone)
+2025-02-01 14:56:46,706 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:46,707 - INFO - Retrying request to /chat/completions in 0.411289 seconds
+2025-02-01 14:56:47,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:47,176 - INFO - Retrying request to /chat/completions in 0.979704 seconds
+2025-02-01 14:56:48,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:49,345 - INFO - Processing psychology_theory (positive tone)
+2025-02-01 14:56:49,692 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:49,692 - INFO - Retrying request to /chat/completions in 0.408010 seconds
+2025-02-01 14:56:50,161 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:50,161 - INFO - Retrying request to /chat/completions in 0.887152 seconds
+2025-02-01 14:56:51,101 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:52,425 - INFO - Processing environmental_issue (positive tone)
+2025-02-01 14:56:53,016 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:53,016 - INFO - Retrying request to /chat/completions in 0.419607 seconds
+2025-02-01 14:56:53,489 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:53,489 - INFO - Retrying request to /chat/completions in 0.996863 seconds
+2025-02-01 14:56:54,542 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:55,665 - INFO - Processing political_ideology (positive tone)
+2025-02-01 14:56:56,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:56,061 - INFO - Retrying request to /chat/completions in 0.440790 seconds
+2025-02-01 14:56:56,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:56,579 - INFO - Retrying request to /chat/completions in 0.833828 seconds
+2025-02-01 14:56:57,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:58,620 - INFO - Processing cultural_practice (positive tone)
+2025-02-01 14:56:58,983 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:58,983 - INFO - Retrying request to /chat/completions in 0.383522 seconds
+2025-02-01 14:56:59,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:56:59,415 - INFO - Retrying request to /chat/completions in 0.993953 seconds
+2025-02-01 14:57:00,492 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:01,626 - INFO - Processing medical_condition (positive tone)
+2025-02-01 14:57:01,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:01,993 - INFO - Retrying request to /chat/completions in 0.393994 seconds
+2025-02-01 14:57:02,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:02,455 - INFO - Retrying request to /chat/completions in 0.951144 seconds
+2025-02-01 14:57:03,474 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:04,933 - INFO - Processing music_genre (positive tone)
+2025-02-01 14:57:05,323 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:05,323 - INFO - Retrying request to /chat/completions in 0.380353 seconds
+2025-02-01 14:57:05,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:05,776 - INFO - Retrying request to /chat/completions in 0.893693 seconds
+2025-02-01 14:57:06,740 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:07,865 - INFO - Processing architecture_style (positive tone)
+2025-02-01 14:57:08,225 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:08,225 - INFO - Retrying request to /chat/completions in 0.477209 seconds
+2025-02-01 14:57:08,757 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:08,757 - INFO - Retrying request to /chat/completions in 0.961645 seconds
+2025-02-01 14:57:09,778 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:10,896 - INFO - Processing legal_concept (positive tone)
+2025-02-01 14:57:11,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:11,281 - INFO - Retrying request to /chat/completions in 0.427444 seconds
+2025-02-01 14:57:11,758 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:11,758 - INFO - Retrying request to /chat/completions in 0.788490 seconds
+2025-02-01 14:57:12,597 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:13,709 - INFO - Processing astronomy_phenomenon (positive tone)
+2025-02-01 14:57:14,056 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:14,056 - INFO - Retrying request to /chat/completions in 0.438857 seconds
+2025-02-01 14:57:14,553 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:14,554 - INFO - Retrying request to /chat/completions in 0.812077 seconds
+2025-02-01 14:57:15,420 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:16,553 - INFO - Processing sociology_theory (positive tone)
+2025-02-01 14:57:16,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:16,912 - INFO - Retrying request to /chat/completions in 0.380275 seconds
+2025-02-01 14:57:17,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:17,387 - INFO - Retrying request to /chat/completions in 0.972707 seconds
+2025-02-01 14:57:18,434 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:19,565 - INFO - Processing linguistic_feature (positive tone)
+2025-02-01 14:57:19,936 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:19,936 - INFO - Retrying request to /chat/completions in 0.467581 seconds
+2025-02-01 14:57:20,460 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:20,460 - INFO - Retrying request to /chat/completions in 0.860015 seconds
+2025-02-01 14:57:21,389 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:22,534 - INFO - Processing ethical_dilemma (positive tone)
+2025-02-01 14:57:22,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:22,866 - INFO - Retrying request to /chat/completions in 0.412324 seconds
+2025-02-01 14:57:23,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:23,332 - INFO - Retrying request to /chat/completions in 0.893572 seconds
+2025-02-01 14:57:24,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:25,416 - INFO - Processing philosophy_analysis (neutral tone)
+2025-02-01 14:57:25,774 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:25,775 - INFO - Retrying request to /chat/completions in 0.482845 seconds
+2025-02-01 14:57:26,309 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:26,310 - INFO - Retrying request to /chat/completions in 0.905113 seconds
+2025-02-01 14:57:27,264 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:28,397 - INFO - Processing historical_event (neutral tone)
+2025-02-01 14:57:28,791 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:28,791 - INFO - Retrying request to /chat/completions in 0.392596 seconds
+2025-02-01 14:57:29,234 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:29,234 - INFO - Retrying request to /chat/completions in 0.791431 seconds
+2025-02-01 14:57:30,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:31,200 - INFO - Processing scientific_theory (neutral tone)
+2025-02-01 14:57:31,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:31,554 - INFO - Retrying request to /chat/completions in 0.488305 seconds
+2025-02-01 14:57:32,100 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:32,100 - INFO - Retrying request to /chat/completions in 0.770999 seconds
+2025-02-01 14:57:32,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:34,047 - INFO - Processing literary_critique (neutral tone)
+2025-02-01 14:57:34,379 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:34,380 - INFO - Retrying request to /chat/completions in 0.495912 seconds
+2025-02-01 14:57:34,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:34,929 - INFO - Retrying request to /chat/completions in 0.890735 seconds
+2025-02-01 14:57:35,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:36,998 - INFO - Processing math_concept (neutral tone)
+2025-02-01 14:57:37,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:37,355 - INFO - Retrying request to /chat/completions in 0.452820 seconds
+2025-02-01 14:57:37,877 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:37,877 - INFO - Retrying request to /chat/completions in 0.784313 seconds
+2025-02-01 14:57:38,713 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:39,833 - INFO - Processing art_movement (neutral tone)
+2025-02-01 14:57:40,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:40,279 - INFO - Retrying request to /chat/completions in 0.440196 seconds
+2025-02-01 14:57:40,782 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:40,782 - INFO - Retrying request to /chat/completions in 0.985423 seconds
+2025-02-01 14:57:41,830 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:42,949 - INFO - Processing economic_principle (neutral tone)
+2025-02-01 14:57:43,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:43,310 - INFO - Retrying request to /chat/completions in 0.491280 seconds
+2025-02-01 14:57:43,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:43,867 - INFO - Retrying request to /chat/completions in 0.925463 seconds
+2025-02-01 14:57:44,851 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:45,969 - INFO - Processing tech_innovation (neutral tone)
+2025-02-01 14:57:46,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:46,317 - INFO - Retrying request to /chat/completions in 0.401778 seconds
+2025-02-01 14:57:46,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:46,777 - INFO - Retrying request to /chat/completions in 0.971429 seconds
+2025-02-01 14:57:47,811 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:48,948 - INFO - Processing psychology_theory (neutral tone)
+2025-02-01 14:57:49,285 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:49,286 - INFO - Retrying request to /chat/completions in 0.465832 seconds
+2025-02-01 14:57:49,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:49,806 - INFO - Retrying request to /chat/completions in 0.837719 seconds
+2025-02-01 14:57:50,691 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:52,062 - INFO - Processing environmental_issue (neutral tone)
+2025-02-01 14:57:52,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:52,403 - INFO - Retrying request to /chat/completions in 0.455776 seconds
+2025-02-01 14:57:52,919 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:52,920 - INFO - Retrying request to /chat/completions in 0.786645 seconds
+2025-02-01 14:57:53,757 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:54,889 - INFO - Processing political_ideology (neutral tone)
+2025-02-01 14:57:55,256 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:55,257 - INFO - Retrying request to /chat/completions in 0.409946 seconds
+2025-02-01 14:57:55,722 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:55,723 - INFO - Retrying request to /chat/completions in 0.836547 seconds
+2025-02-01 14:57:56,616 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:57,737 - INFO - Processing cultural_practice (neutral tone)
+2025-02-01 14:57:58,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:58,069 - INFO - Retrying request to /chat/completions in 0.497259 seconds
+2025-02-01 14:57:58,632 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:57:58,632 - INFO - Retrying request to /chat/completions in 0.935312 seconds
+2025-02-01 14:57:59,633 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:00,782 - INFO - Processing medical_condition (neutral tone)
+2025-02-01 14:58:01,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:01,179 - INFO - Retrying request to /chat/completions in 0.474266 seconds
+2025-02-01 14:58:01,709 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:01,709 - INFO - Retrying request to /chat/completions in 0.811786 seconds
+2025-02-01 14:58:02,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:03,689 - INFO - Processing music_genre (neutral tone)
+2025-02-01 14:58:04,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:04,035 - INFO - Retrying request to /chat/completions in 0.397937 seconds
+2025-02-01 14:58:04,489 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:04,489 - INFO - Retrying request to /chat/completions in 0.822226 seconds
+2025-02-01 14:58:05,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:06,487 - INFO - Processing architecture_style (neutral tone)
+2025-02-01 14:58:06,844 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:06,845 - INFO - Retrying request to /chat/completions in 0.441333 seconds
+2025-02-01 14:58:07,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:07,342 - INFO - Retrying request to /chat/completions in 0.935273 seconds
+2025-02-01 14:58:08,329 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:09,459 - INFO - Processing legal_concept (neutral tone)
+2025-02-01 14:58:09,886 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:09,886 - INFO - Retrying request to /chat/completions in 0.495532 seconds
+2025-02-01 14:58:10,436 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:10,437 - INFO - Retrying request to /chat/completions in 0.783120 seconds
+2025-02-01 14:58:11,278 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:12,404 - INFO - Processing astronomy_phenomenon (neutral tone)
+2025-02-01 14:58:12,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:12,739 - INFO - Retrying request to /chat/completions in 0.427833 seconds
+2025-02-01 14:58:13,234 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:13,234 - INFO - Retrying request to /chat/completions in 0.956693 seconds
+2025-02-01 14:58:14,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:15,359 - INFO - Processing sociology_theory (neutral tone)
+2025-02-01 14:58:15,734 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:15,735 - INFO - Retrying request to /chat/completions in 0.392057 seconds
+2025-02-01 14:58:16,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:16,198 - INFO - Retrying request to /chat/completions in 0.892883 seconds
+2025-02-01 14:58:17,160 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:18,277 - INFO - Processing linguistic_feature (neutral tone)
+2025-02-01 14:58:18,609 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:18,609 - INFO - Retrying request to /chat/completions in 0.430115 seconds
+2025-02-01 14:58:19,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:19,092 - INFO - Retrying request to /chat/completions in 0.807751 seconds
+2025-02-01 14:58:20,202 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:21,323 - INFO - Processing ethical_dilemma (neutral tone)
+2025-02-01 14:58:21,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:21,668 - INFO - Retrying request to /chat/completions in 0.461096 seconds
+2025-02-01 14:58:22,182 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:22,182 - INFO - Retrying request to /chat/completions in 0.794631 seconds
+2025-02-01 14:58:23,031 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:24,166 - INFO - Processing philosophy_analysis (negative tone)
+2025-02-01 14:58:24,524 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:24,525 - INFO - Retrying request to /chat/completions in 0.382896 seconds
+2025-02-01 14:58:24,960 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:24,961 - INFO - Retrying request to /chat/completions in 0.873315 seconds
+2025-02-01 14:58:25,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:26,999 - INFO - Processing historical_event (negative tone)
+2025-02-01 14:58:27,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:27,370 - INFO - Retrying request to /chat/completions in 0.397935 seconds
+2025-02-01 14:58:27,829 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:27,829 - INFO - Retrying request to /chat/completions in 0.830495 seconds
+2025-02-01 14:58:28,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:29,889 - INFO - Processing scientific_theory (negative tone)
+2025-02-01 14:58:30,285 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:30,285 - INFO - Retrying request to /chat/completions in 0.384321 seconds
+2025-02-01 14:58:30,721 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:30,722 - INFO - Retrying request to /chat/completions in 0.830960 seconds
+2025-02-01 14:58:31,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:32,746 - INFO - Processing literary_critique (negative tone)
+2025-02-01 14:58:33,086 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:33,086 - INFO - Retrying request to /chat/completions in 0.377123 seconds
+2025-02-01 14:58:33,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:33,515 - INFO - Retrying request to /chat/completions in 0.937932 seconds
+2025-02-01 14:58:34,510 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:35,642 - INFO - Processing math_concept (negative tone)
+2025-02-01 14:58:35,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:35,980 - INFO - Retrying request to /chat/completions in 0.430084 seconds
+2025-02-01 14:58:36,462 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:36,462 - INFO - Retrying request to /chat/completions in 0.874623 seconds
+2025-02-01 14:58:37,389 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:38,512 - INFO - Processing art_movement (negative tone)
+2025-02-01 14:58:38,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:38,905 - INFO - Retrying request to /chat/completions in 0.471491 seconds
+2025-02-01 14:58:39,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:39,432 - INFO - Retrying request to /chat/completions in 0.798762 seconds
+2025-02-01 14:58:40,289 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:41,408 - INFO - Processing economic_principle (negative tone)
+2025-02-01 14:58:41,806 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:41,807 - INFO - Retrying request to /chat/completions in 0.446607 seconds
+2025-02-01 14:58:42,338 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:42,338 - INFO - Retrying request to /chat/completions in 0.987172 seconds
+2025-02-01 14:58:43,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:44,534 - INFO - Processing tech_innovation (negative tone)
+2025-02-01 14:58:44,869 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:44,870 - INFO - Retrying request to /chat/completions in 0.386150 seconds
+2025-02-01 14:58:45,311 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:45,311 - INFO - Retrying request to /chat/completions in 0.831467 seconds
+2025-02-01 14:58:46,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:47,323 - INFO - Processing psychology_theory (negative tone)
+2025-02-01 14:58:47,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:47,689 - INFO - Retrying request to /chat/completions in 0.494767 seconds
+2025-02-01 14:58:48,258 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:48,258 - INFO - Retrying request to /chat/completions in 0.835350 seconds
+2025-02-01 14:58:49,173 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:50,295 - INFO - Processing environmental_issue (negative tone)
+2025-02-01 14:58:50,656 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:50,656 - INFO - Retrying request to /chat/completions in 0.497000 seconds
+2025-02-01 14:58:51,204 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:51,204 - INFO - Retrying request to /chat/completions in 0.974967 seconds
+2025-02-01 14:58:52,232 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:53,377 - INFO - Processing political_ideology (negative tone)
+2025-02-01 14:58:53,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:53,725 - INFO - Retrying request to /chat/completions in 0.456159 seconds
+2025-02-01 14:58:54,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:54,240 - INFO - Retrying request to /chat/completions in 0.799332 seconds
+2025-02-01 14:58:55,100 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:56,222 - INFO - Processing cultural_practice (negative tone)
+2025-02-01 14:58:56,567 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:56,567 - INFO - Retrying request to /chat/completions in 0.403899 seconds
+2025-02-01 14:58:57,027 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:57,027 - INFO - Retrying request to /chat/completions in 0.870911 seconds
+2025-02-01 14:58:57,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:59,107 - INFO - Processing medical_condition (negative tone)
+2025-02-01 14:58:59,488 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:59,488 - INFO - Retrying request to /chat/completions in 0.407449 seconds
+2025-02-01 14:58:59,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:58:59,953 - INFO - Retrying request to /chat/completions in 0.791461 seconds
+2025-02-01 14:59:00,795 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:01,920 - INFO - Processing music_genre (negative tone)
+2025-02-01 14:59:02,287 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:02,287 - INFO - Retrying request to /chat/completions in 0.465685 seconds
+2025-02-01 14:59:02,817 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:02,817 - INFO - Retrying request to /chat/completions in 0.790063 seconds
+2025-02-01 14:59:03,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:04,799 - INFO - Processing architecture_style (negative tone)
+2025-02-01 14:59:05,152 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:05,152 - INFO - Retrying request to /chat/completions in 0.452776 seconds
+2025-02-01 14:59:05,657 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:05,657 - INFO - Retrying request to /chat/completions in 0.903527 seconds
+2025-02-01 14:59:06,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:07,732 - INFO - Processing legal_concept (negative tone)
+2025-02-01 14:59:08,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:08,078 - INFO - Retrying request to /chat/completions in 0.412429 seconds
+2025-02-01 14:59:08,546 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:08,546 - INFO - Retrying request to /chat/completions in 0.924938 seconds
+2025-02-01 14:59:09,529 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:10,655 - INFO - Processing astronomy_phenomenon (negative tone)
+2025-02-01 14:59:11,007 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:11,007 - INFO - Retrying request to /chat/completions in 0.469188 seconds
+2025-02-01 14:59:11,531 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:11,531 - INFO - Retrying request to /chat/completions in 0.858694 seconds
+2025-02-01 14:59:12,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:13,587 - INFO - Processing sociology_theory (negative tone)
+2025-02-01 14:59:13,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:13,927 - INFO - Retrying request to /chat/completions in 0.403322 seconds
+2025-02-01 14:59:14,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:14,384 - INFO - Retrying request to /chat/completions in 0.755197 seconds
+2025-02-01 14:59:15,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:16,346 - INFO - Processing linguistic_feature (negative tone)
+2025-02-01 14:59:16,726 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:16,726 - INFO - Retrying request to /chat/completions in 0.401340 seconds
+2025-02-01 14:59:17,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:17,189 - INFO - Retrying request to /chat/completions in 0.983768 seconds
+2025-02-01 14:59:18,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:19,378 - INFO - Processing ethical_dilemma (negative tone)
+2025-02-01 14:59:19,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:19,720 - INFO - Retrying request to /chat/completions in 0.448858 seconds
+2025-02-01 14:59:20,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:20,220 - INFO - Retrying request to /chat/completions in 0.753558 seconds
+2025-02-01 14:59:21,037 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 14:59:22,172 - INFO - Validation testing complete. Results saved to results/llm_responses_results.csv.
+2025-02-01 15:08:46,680 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:08:47,076 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:47,076 - INFO - Retrying request to /chat/completions in 0.428207 seconds
+2025-02-01 15:08:47,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:47,554 - INFO - Retrying request to /chat/completions in 0.999813 seconds
+2025-02-01 15:08:48,607 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:48,608 - ERROR - Rate limit hit. Retrying in 1 seconds...
+2025-02-01 15:08:49,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:49,667 - INFO - Retrying request to /chat/completions in 0.409948 seconds
+2025-02-01 15:08:50,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:50,128 - INFO - Retrying request to /chat/completions in 0.859942 seconds
+2025-02-01 15:08:51,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:51,035 - ERROR - Rate limit hit. Retrying in 2 seconds...
+2025-02-01 15:08:53,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:53,095 - INFO - Retrying request to /chat/completions in 0.488418 seconds
+2025-02-01 15:08:53,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:53,639 - INFO - Retrying request to /chat/completions in 0.948432 seconds
+2025-02-01 15:08:54,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:54,641 - ERROR - Rate limit hit. Retrying in 4 seconds...
+2025-02-01 15:08:58,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:58,702 - INFO - Retrying request to /chat/completions in 0.471662 seconds
+2025-02-01 15:08:59,222 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:08:59,222 - INFO - Retrying request to /chat/completions in 0.869293 seconds
+2025-02-01 15:09:00,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:00,157 - ERROR - Rate limit hit. Retrying in 8 seconds...
+2025-02-01 15:09:08,247 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:08,248 - INFO - Retrying request to /chat/completions in 0.413628 seconds
+2025-02-01 15:09:08,718 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:08,718 - INFO - Retrying request to /chat/completions in 0.995305 seconds
+2025-02-01 15:09:09,767 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:09,767 - ERROR - Rate limit hit. Retrying in 16 seconds...
+2025-02-01 15:09:27,126 - INFO - Processing historical_event (positive tone)
+2025-02-01 15:09:27,456 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:27,457 - INFO - Retrying request to /chat/completions in 0.498425 seconds
+2025-02-01 15:09:28,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:28,011 - INFO - Retrying request to /chat/completions in 0.832513 seconds
+2025-02-01 15:09:28,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:28,902 - ERROR - Rate limit hit. Retrying in 1 seconds...
+2025-02-01 15:09:29,954 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:29,954 - INFO - Retrying request to /chat/completions in 0.403683 seconds
+2025-02-01 15:09:30,413 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:30,413 - INFO - Retrying request to /chat/completions in 0.835566 seconds
+2025-02-01 15:09:31,330 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:31,331 - ERROR - Rate limit hit. Retrying in 2 seconds...
+2025-02-01 15:09:33,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:33,387 - INFO - Retrying request to /chat/completions in 0.490483 seconds
+2025-02-01 15:09:33,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:33,927 - INFO - Retrying request to /chat/completions in 0.792000 seconds
+2025-02-01 15:09:34,775 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:09:34,776 - ERROR - Rate limit hit. Retrying in 4 seconds...
+2025-02-01 15:11:55,976 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:11:56,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:11:56,382 - INFO - Retrying request to /chat/completions in 0.478492 seconds
+2025-02-01 15:11:56,946 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:11:56,946 - INFO - Retrying request to /chat/completions in 0.888413 seconds
+2025-02-01 15:11:57,909 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:11:57,910 - ERROR - Rate limit hit. Retrying in 1 seconds...
+2025-02-01 15:11:58,988 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:11:58,988 - INFO - Retrying request to /chat/completions in 0.450196 seconds
+2025-02-01 15:11:59,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:11:59,508 - INFO - Retrying request to /chat/completions in 0.775148 seconds
+2025-02-01 15:12:00,353 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:00,353 - ERROR - Rate limit hit. Retrying in 2 seconds...
+2025-02-01 15:12:02,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:02,427 - INFO - Retrying request to /chat/completions in 0.400960 seconds
+2025-02-01 15:12:02,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:02,901 - INFO - Retrying request to /chat/completions in 0.772278 seconds
+2025-02-01 15:12:03,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:03,745 - ERROR - Rate limit hit. Retrying in 4 seconds...
+2025-02-01 15:12:07,819 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:07,819 - INFO - Retrying request to /chat/completions in 0.414735 seconds
+2025-02-01 15:12:08,313 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:08,314 - INFO - Retrying request to /chat/completions in 0.756214 seconds
+2025-02-01 15:12:09,189 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:09,189 - ERROR - Rate limit hit. Retrying in 8 seconds...
+2025-02-01 15:12:17,305 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:17,306 - INFO - Retrying request to /chat/completions in 0.420389 seconds
+2025-02-01 15:12:17,781 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:17,782 - INFO - Retrying request to /chat/completions in 0.775247 seconds
+2025-02-01 15:12:18,615 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:18,616 - ERROR - Rate limit hit. Retrying in 16 seconds...
+2025-02-01 15:12:35,752 - INFO - Processing historical_event (positive tone)
+2025-02-01 15:12:36,110 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:36,110 - INFO - Retrying request to /chat/completions in 0.438909 seconds
+2025-02-01 15:12:36,616 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:36,616 - INFO - Retrying request to /chat/completions in 0.859511 seconds
+2025-02-01 15:12:37,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:37,541 - ERROR - Rate limit hit. Retrying in 1 seconds...
+2025-02-01 15:12:38,594 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:38,594 - INFO - Retrying request to /chat/completions in 0.393617 seconds
+2025-02-01 15:12:39,043 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:39,043 - INFO - Retrying request to /chat/completions in 0.879240 seconds
+2025-02-01 15:12:39,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:39,983 - ERROR - Rate limit hit. Retrying in 2 seconds...
+2025-02-01 15:12:42,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:42,035 - INFO - Retrying request to /chat/completions in 0.432055 seconds
+2025-02-01 15:12:42,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:42,518 - INFO - Retrying request to /chat/completions in 0.959472 seconds
+2025-02-01 15:12:43,530 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:43,530 - ERROR - Rate limit hit. Retrying in 4 seconds...
+2025-02-01 15:12:47,584 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:47,585 - INFO - Retrying request to /chat/completions in 0.474208 seconds
+2025-02-01 15:12:48,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:48,116 - INFO - Retrying request to /chat/completions in 0.804006 seconds
+2025-02-01 15:12:48,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:48,972 - ERROR - Rate limit hit. Retrying in 8 seconds...
+2025-02-01 15:12:57,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:57,079 - INFO - Retrying request to /chat/completions in 0.487708 seconds
+2025-02-01 15:12:57,628 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:57,628 - INFO - Retrying request to /chat/completions in 0.872773 seconds
+2025-02-01 15:12:58,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:12:58,559 - ERROR - Rate limit hit. Retrying in 16 seconds...
+2025-02-01 15:13:15,695 - INFO - Processing scientific_theory (positive tone)
+2025-02-01 15:13:16,066 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:16,066 - INFO - Retrying request to /chat/completions in 0.491965 seconds
+2025-02-01 15:13:16,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:16,610 - INFO - Retrying request to /chat/completions in 0.928571 seconds
+2025-02-01 15:13:17,597 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:17,597 - ERROR - Rate limit hit. Retrying in 1 seconds...
+2025-02-01 15:13:18,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:18,653 - INFO - Retrying request to /chat/completions in 0.405604 seconds
+2025-02-01 15:13:19,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:19,115 - INFO - Retrying request to /chat/completions in 0.793199 seconds
+2025-02-01 15:13:19,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:19,964 - ERROR - Rate limit hit. Retrying in 2 seconds...
+2025-02-01 15:13:22,028 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:22,028 - INFO - Retrying request to /chat/completions in 0.497110 seconds
+2025-02-01 15:13:22,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:22,583 - INFO - Retrying request to /chat/completions in 0.765654 seconds
+2025-02-01 15:13:23,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:23,404 - ERROR - Rate limit hit. Retrying in 4 seconds...
+2025-02-01 15:13:27,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:27,473 - INFO - Retrying request to /chat/completions in 0.468997 seconds
+2025-02-01 15:13:27,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:27,998 - INFO - Retrying request to /chat/completions in 0.858273 seconds
+2025-02-01 15:13:28,910 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:28,910 - ERROR - Rate limit hit. Retrying in 8 seconds...
+2025-02-01 15:13:36,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:36,998 - INFO - Retrying request to /chat/completions in 0.394637 seconds
+2025-02-01 15:13:37,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:37,452 - INFO - Retrying request to /chat/completions in 0.984049 seconds
+2025-02-01 15:13:38,489 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:13:38,489 - ERROR - Rate limit hit. Retrying in 16 seconds...
+2025-02-01 15:14:02,679 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:14:03,100 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:03,100 - INFO - Retrying request to /chat/completions in 0.376643 seconds
+2025-02-01 15:14:03,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:03,545 - INFO - Retrying request to /chat/completions in 0.912309 seconds
+2025-02-01 15:14:04,529 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:04,531 - ERROR - Rate limit hit. Retrying in 6.00 seconds...
+2025-02-01 15:14:10,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:10,639 - INFO - Retrying request to /chat/completions in 0.433376 seconds
+2025-02-01 15:14:11,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:11,129 - INFO - Retrying request to /chat/completions in 0.752386 seconds
+2025-02-01 15:14:11,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:11,933 - ERROR - Rate limit hit. Retrying in 11.78 seconds...
+2025-02-01 15:14:23,825 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:23,825 - INFO - Retrying request to /chat/completions in 0.457691 seconds
+2025-02-01 15:14:24,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:24,332 - INFO - Retrying request to /chat/completions in 0.997375 seconds
+2025-02-01 15:14:25,391 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:25,391 - ERROR - Rate limit hit. Retrying in 20.49 seconds...
+2025-02-01 15:14:45,988 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:45,988 - INFO - Retrying request to /chat/completions in 0.451482 seconds
+2025-02-01 15:14:46,497 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:46,498 - INFO - Retrying request to /chat/completions in 0.886546 seconds
+2025-02-01 15:14:47,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:14:47,445 - ERROR - Rate limit hit. Retrying in 40.72 seconds...
+2025-02-01 15:15:55,865 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:15:55,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:15:55,982 - INFO - Retrying request to /chat/completions in 0.477445 seconds
+2025-02-01 15:15:56,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:15:56,513 - INFO - Retrying request to /chat/completions in 0.893388 seconds
+2025-02-01 15:15:57,457 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:15:57,458 - ERROR - Rate limit hit. Retrying in 6.97 seconds...
+2025-02-01 15:16:04,524 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:04,525 - INFO - Retrying request to /chat/completions in 0.479881 seconds
+2025-02-01 15:16:05,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:05,061 - INFO - Retrying request to /chat/completions in 0.891896 seconds
+2025-02-01 15:16:06,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:06,011 - ERROR - Rate limit hit. Retrying in 11.09 seconds...
+2025-02-01 15:16:17,189 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:17,189 - INFO - Retrying request to /chat/completions in 0.402452 seconds
+2025-02-01 15:16:17,647 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:17,647 - INFO - Retrying request to /chat/completions in 0.923325 seconds
+2025-02-01 15:16:18,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:18,622 - ERROR - Rate limit hit. Retrying in 20.22 seconds...
+2025-02-01 15:16:38,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:38,928 - INFO - Retrying request to /chat/completions in 0.387594 seconds
+2025-02-01 15:16:39,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:39,367 - INFO - Retrying request to /chat/completions in 0.954501 seconds
+2025-02-01 15:16:40,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:16:40,369 - ERROR - Rate limit hit. Retrying in 40.32 seconds...
+2025-02-01 15:17:08,746 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:17:08,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:17:08,852 - INFO - Retrying request to /chat/completions in 0.425844 seconds
+2025-02-01 15:17:09,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:17:09,332 - INFO - Retrying request to /chat/completions in 0.986840 seconds
+2025-02-01 15:17:10,374 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:21:34,776 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:21:34,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:21:34,896 - INFO - Retrying request to /chat/completions in 0.479973 seconds
+2025-02-01 15:21:49,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:21:51,086 - INFO - Processing historical_event (positive tone)
+2025-02-01 15:21:51,141 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:21:51,141 - INFO - Retrying request to /chat/completions in 0.408424 seconds
+2025-02-01 15:21:51,602 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:21:51,602 - INFO - Retrying request to /chat/completions in 0.924705 seconds
+2025-02-01 15:21:52,586 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:23:03,816 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:23:03,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:23:03,933 - INFO - Retrying request to /chat/completions in 0.427603 seconds
+2025-02-01 15:23:04,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:23:04,415 - INFO - Retrying request to /chat/completions in 0.927875 seconds
+2025-02-01 15:23:19,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:23:20,788 - INFO - Processing historical_event (positive tone)
+2025-02-01 15:23:37,075 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:23:38,210 - INFO - Processing scientific_theory (positive tone)
+2025-02-01 15:23:38,264 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:23:38,264 - INFO - Retrying request to /chat/completions in 0.404378 seconds
+2025-02-01 15:23:38,721 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:23:38,722 - INFO - Retrying request to /chat/completions in 0.812128 seconds
+2025-02-01 15:23:39,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:24:12,343 - INFO - Processing philosophy_analysis (positive tone)
+2025-02-01 15:24:21,023 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:24:22,169 - INFO - Processing historical_event (positive tone)
+2025-02-01 15:24:22,230 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:24:22,230 - INFO - Retrying request to /chat/completions in 0.421119 seconds
+2025-02-01 15:24:30,542 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:24:31,739 - INFO - Processing scientific_theory (positive tone)
+2025-02-01 15:24:31,790 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:24:31,790 - INFO - Retrying request to /chat/completions in 0.408646 seconds
+2025-02-01 15:24:40,259 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:24:41,380 - INFO - Processing literary_critique (positive tone)
+2025-02-01 15:24:48,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:24:49,558 - INFO - Processing math_concept (positive tone)
+2025-02-01 15:24:49,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:24:49,610 - INFO - Retrying request to /chat/completions in 0.396834 seconds
+2025-02-01 15:24:58,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:24:59,767 - INFO - Processing art_movement (positive tone)
+2025-02-01 15:25:06,253 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:25:07,399 - INFO - Processing economic_principle (positive tone)
+2025-02-01 15:25:07,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:25:07,454 - INFO - Retrying request to /chat/completions in 0.491183 seconds
+2025-02-01 15:25:14,656 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:25:15,817 - INFO - Processing tech_innovation (positive tone)
+2025-02-01 15:25:15,868 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:25:15,868 - INFO - Retrying request to /chat/completions in 0.426988 seconds
+2025-02-01 15:25:23,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:25:24,687 - INFO - Processing psychology_theory (positive tone)
+2025-02-01 15:25:31,948 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:25:33,089 - INFO - Processing environmental_issue (positive tone)
+2025-02-01 15:25:33,144 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:25:33,144 - INFO - Retrying request to /chat/completions in 0.409129 seconds
+2025-02-01 15:25:51,267 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:25:52,410 - INFO - Processing political_ideology (positive tone)
+2025-02-01 15:26:00,588 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:26:01,733 - INFO - Processing cultural_practice (positive tone)
+2025-02-01 15:26:11,869 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:26:13,043 - INFO - Processing medical_condition (positive tone)
+2025-02-01 15:26:22,153 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:26:23,294 - INFO - Processing music_genre (positive tone)
+2025-02-01 15:26:33,686 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:26:34,820 - INFO - Processing architecture_style (positive tone)
+2025-02-01 15:26:45,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:26:46,855 - INFO - Processing legal_concept (positive tone)
+2025-02-01 15:26:58,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:26:59,353 - INFO - Processing astronomy_phenomenon (positive tone)
+2025-02-01 15:27:08,293 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:09,435 - INFO - Processing sociology_theory (positive tone)
+2025-02-01 15:27:16,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:17,218 - INFO - Processing linguistic_feature (positive tone)
+2025-02-01 15:27:23,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:24,571 - INFO - Processing ethical_dilemma (positive tone)
+2025-02-01 15:27:31,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:32,464 - INFO - Processing philosophy_analysis (neutral tone)
+2025-02-01 15:27:40,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:41,326 - INFO - Processing historical_event (neutral tone)
+2025-02-01 15:27:48,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:49,206 - INFO - Processing scientific_theory (neutral tone)
+2025-02-01 15:27:57,256 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:27:58,424 - INFO - Processing literary_critique (neutral tone)
+2025-02-01 15:28:05,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:28:06,830 - INFO - Processing math_concept (neutral tone)
+2025-02-01 15:28:17,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:28:19,031 - INFO - Processing art_movement (neutral tone)
+2025-02-01 15:28:26,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:28:28,142 - INFO - Processing economic_principle (neutral tone)
+2025-02-01 15:28:35,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:28:36,694 - INFO - Processing tech_innovation (neutral tone)
+2025-02-01 15:28:44,216 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:28:45,342 - INFO - Processing psychology_theory (neutral tone)
+2025-02-01 15:28:52,893 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:28:54,026 - INFO - Processing environmental_issue (neutral tone)
+2025-02-01 15:29:03,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:29:04,788 - INFO - Processing political_ideology (neutral tone)
+2025-02-01 15:29:11,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:29:12,694 - INFO - Processing cultural_practice (neutral tone)
+2025-02-01 15:29:24,028 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:29:25,156 - INFO - Processing medical_condition (neutral tone)
+2025-02-01 15:29:25,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:29:25,211 - INFO - Retrying request to /chat/completions in 0.382381 seconds
+2025-02-01 15:29:31,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:29:32,942 - INFO - Processing music_genre (neutral tone)
+2025-02-01 15:29:47,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:29:48,438 - INFO - Processing architecture_style (neutral tone)
+2025-02-01 15:29:55,766 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:29:56,917 - INFO - Processing legal_concept (neutral tone)
+2025-02-01 15:30:03,755 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:30:04,933 - INFO - Processing astronomy_phenomenon (neutral tone)
+2025-02-01 15:30:14,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:30:15,193 - INFO - Processing sociology_theory (neutral tone)
+2025-02-01 15:30:15,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-02-01 15:30:15,246 - INFO - Retrying request to /chat/completions in 0.403259 seconds
+2025-02-01 15:30:26,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:30:27,788 - INFO - Processing linguistic_feature (neutral tone)
+2025-02-01 15:30:35,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:30:36,787 - INFO - Processing ethical_dilemma (neutral tone)
+2025-02-01 15:30:44,237 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:30:45,369 - INFO - Processing philosophy_analysis (negative tone)
+2025-02-01 15:30:54,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:30:56,126 - INFO - Processing historical_event (negative tone)
+2025-02-01 15:31:00,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:02,175 - INFO - Processing scientific_theory (negative tone)
+2025-02-01 15:31:04,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:05,564 - INFO - Processing literary_critique (negative tone)
+2025-02-01 15:31:14,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:15,480 - INFO - Processing math_concept (negative tone)
+2025-02-01 15:31:24,229 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:25,365 - INFO - Processing art_movement (negative tone)
+2025-02-01 15:31:31,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:32,496 - INFO - Processing economic_principle (negative tone)
+2025-02-01 15:31:37,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:38,434 - INFO - Processing tech_innovation (negative tone)
+2025-02-01 15:31:46,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:47,578 - INFO - Processing psychology_theory (negative tone)
+2025-02-01 15:31:51,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:31:52,723 - INFO - Processing environmental_issue (negative tone)
+2025-02-01 15:32:06,187 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:07,319 - INFO - Processing political_ideology (negative tone)
+2025-02-01 15:32:14,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:15,367 - INFO - Processing cultural_practice (negative tone)
+2025-02-01 15:32:23,500 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:24,651 - INFO - Processing medical_condition (negative tone)
+2025-02-01 15:32:26,585 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:27,718 - INFO - Processing music_genre (negative tone)
+2025-02-01 15:32:34,692 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:35,821 - INFO - Processing architecture_style (negative tone)
+2025-02-01 15:32:37,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:38,687 - INFO - Processing legal_concept (negative tone)
+2025-02-01 15:32:40,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:41,162 - INFO - Processing astronomy_phenomenon (negative tone)
+2025-02-01 15:32:45,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:46,508 - INFO - Processing sociology_theory (negative tone)
+2025-02-01 15:32:52,489 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:32:53,631 - INFO - Processing linguistic_feature (negative tone)
+2025-02-01 15:33:00,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:33:01,421 - INFO - Processing ethical_dilemma (negative tone)
+2025-02-01 15:33:04,064 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 15:33:05,207 - INFO - Validation testing complete. Results saved to results/llm_responses_results.csv.

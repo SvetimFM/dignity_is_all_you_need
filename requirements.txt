@@ -1,0 +1,6 @@
+pandas
+openai
+anthropic
+requests
+nltk
+python-dotenv
