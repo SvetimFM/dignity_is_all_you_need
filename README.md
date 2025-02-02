@@ -1,6 +1,8 @@
 # Dignity Is All You Need
 
-This project investigates the impact of prompt sentiment on Large Language Model (LLM) outputs. By analyzing 20 prompts, each modified to convey negative, neutral, or positive sentiments, the study evaluates the resulting outputs using both VADER sentiment analysis and self-evaluation metrics from the LLMs.
+This project investigates the impact of prompt sentiment on Large Language Model (LLM) outputs. By analyzing 20 prompts, each modified to convey negative, neutral, or positive sentiments, the study evaluates the resulting outputs using both VADER sentiment analysis and self-evaluation metrics from the LLMs. 
+
+Please note - this is weekend work, and needs much, much more testing on multitude of prompts, llms, and languages - information there in is based on evidence sourced from one model, and a single pass across 20 prompts! more to come
 
 ## Table of Contents
 
